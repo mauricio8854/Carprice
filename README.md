@@ -1,28 +1,28 @@
-Autor
+\*\*Autor\*\*
 
-Nelson Mauricio García López 
+Nelson Mauricio García López
 
 nelson.garcia@udea.edu.co
 
 
 
-Descripción general del proyecto
+\*\*Descripción general del proyecto\*\*
 
 Carprice es un análisis de datos de ventas de carros de la compañía AutoScout24 durante el año 2019
 
 
 
-Objetivo
+\*\*Objetivo\*\*
 
 Determinar el comportamiento del precio de vehículos mediante ciencia de datos.
 
 
 
-Estructura del repositorio
+\*\*Estructura del repositorio\*\*
 
 
 
-📁 Carprice/ │
+📁 Carprice/
 
 ├── 📁 articulo/
 
@@ -36,11 +36,7 @@ Estructura del repositorio
 
 ├── 📁 proyecto\_aula/
 
-│ ├── py\_nombre\_apellidos\_01\_intro.ipynb
-
-│ ├── py\_nombre\_apellidos\_02\_limpieza.ipynb
-
-│ └── py\_nombre\_apellidos\_XX\_nombre.ipynb
+│ ├── py\_Nelson\_Garcia\_01\_intro.ipynb
 
 │
 
@@ -58,7 +54,9 @@ Estructura del repositorio
 
 ├── 📁 datos/
 
-│ └── dataset\_procesado.csv
+│ └── dataset\_original.csv
+
+│ └── dataset\_depurado.csv
 
 │
 
@@ -69,10 +67,4 @@ Estructura del repositorio
 │
 
 └── README.md
-
-
-
-
-
-
 
