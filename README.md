@@ -33,17 +33,19 @@ Los aspectos más relevantes en el análisis de mercado, para evaluar el precio 
 
 ├── 📁 **articulo**/
 
-│ ├── informe\_1\_nombre\_apellidos.pdf
-
-│ ├── informe\_XX\_nombre\_apellidos.pdf
-
-│ └── informe\_final\_nombre\_apellidos.pdf
+│ └── informe\_final\_Nelson\_Garcia.pdf
 
 │
 
 ├── 📁 **proyecto\_aula**/
 
 │ ├── py\_Nelson\_Garcia\_01\_intro.ipynb
+
+│ ├── py\_Nelson\_Garcia\_02\_Limpieza.ipynb
+
+│ ├── py\_Nelson\_Garcia\_03\_transformacion.ipynb
+
+│ ├── py\_Nelson\_Garcia\_04\_transf\_Categorica.ipynb
 
 │
 
@@ -64,6 +66,8 @@ Los aspectos más relevantes en el análisis de mercado, para evaluar el precio 
 │ └── dataset\_original.csv
 
 │ └── dataset\_depurado.csv
+
+│ └── dataset\_depurado\_sin\_duplicados.csv
 
 │
 
